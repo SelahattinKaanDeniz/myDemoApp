@@ -96,7 +96,7 @@
 	             String int1 = req.queryParams("int1").replaceAll("\\s","");
 	             int int1AsInt = Integer.parseInt(int1);
 	             String int2 = req.queryParams("int2").replaceAll("\\s","");
-	             int int2AsInt = Integer.parseInt(int2);
+	             int int2AsInt = Integer.parseInt(int2);	
 	             boolean result = App.countOccur(inputList1,inputList2,int1AsInt,int2AsInt);
 
 	             Map map = new HashMap();
