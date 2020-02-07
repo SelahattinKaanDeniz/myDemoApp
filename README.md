@@ -11,5 +11,5 @@ Link:
 
 [![Build Status](https://travis-ci.org/SelahattinKaanDeniz/myDemoApp.svg?branch=master)](https://travis-ci.org/SelahattinKaanDeniz/myDemoApp)
 
-Demo site: https://afternoon-castle-71386.herokuapp.com/
+Demo site: https://afternoon-castle-71386.herokuapp.com/compute
 
