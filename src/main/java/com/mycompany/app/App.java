@@ -108,28 +108,6 @@
 
 
 	        
-	    	
-	    	
-	    	
-	    	
-	    	/*ArrayList<Integer> x = new ArrayList<>(); 
-	        x.add(1); 
-	        x.add(2); 
-	        x.add(3); 
-	        x.add(1); 
-	        x.add(1); 
-	        
-	        ArrayList<Integer> y = new ArrayList<>(); 
-	        y.add(1); 
-	        y.add(2); 
-	        y.add(4); 
-	        y.add(4); 
-	        y.add(3);
-	        y.add(4);
-	        
-	        System.out.println("Integer parameters must be in the ArrayLists");
-	        
-	        App.countOccur(x, y,1,4);*/
 	    }
 	    static int getHerokuAssignedPort() {
 	        ProcessBuilder processBuilder = new ProcessBuilder();
